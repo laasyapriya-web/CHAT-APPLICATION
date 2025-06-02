@@ -18,8 +18,6 @@ MENTOR: NEELA SANTOSH
 
 A modern, real-time chat application with a sleek UI and interactive features.
 
-![![Image](https://github.com/user-attachments/assets/9d421b66-65e1-4fa7-94f9-8ce5014585bc)) *(Replace with your actual screenshot)*
-
 ## Features ✨
 
 - **Real-time messaging** with Socket.IO
