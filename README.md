@@ -18,7 +18,7 @@ MENTOR: NEELA SANTOSH
 
 A modern, real-time chat application with a sleek UI and interactive features.
 
-![ChatterBox Screenshot](https://i.imgur.com/JQ8g0Dk.png) *(Replace with your actual screenshot)*
+![![Image](https://github.com/user-attachments/assets/9d421b66-65e1-4fa7-94f9-8ce5014585bc)) *(Replace with your actual screenshot)*
 
 ## Features ✨
 
@@ -62,3 +62,6 @@ ChatterBox/
 ├── README.md           # This file
 ├── package.json        # Node.js dependencies
 └── (Optional CSS/JS folders if you separate them)
+#output
+
+![Image](https://github.com/user-attachments/assets/9d421b66-65e1-4fa7-94f9-8ce5014585bc)
